@@ -1,7 +1,6 @@
 package br.com.nicolas.exercicios_spring.exe35;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class Main {
